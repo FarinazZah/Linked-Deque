@@ -1,17 +1,4 @@
 import java.util.NoSuchElementException;
-
-/**
- * Your implementation of a LinkedDeque.
- *
- * @author Farinaz Zahiri
- * @version 1.0
- * @userid fzahiri6
- * @GTID 903687032
- *
- * Collaborators: LIST ALL COLLABORATORS YOU WORKED WITH HERE
- *
- * Resources: LIST ALL NON-COURSE RESOURCES YOU CONSULTED HERE
- */
 public class LinkedDeque<T> {
 
     // Do not add new instance variables or modify existing ones.
